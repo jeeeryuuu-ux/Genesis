@@ -1,0 +1,6 @@
+{
+  "name": "GENESIS",
+  "description": "A deterministic procedural universe simulator and multi-scale cosmic exploration instrument.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
